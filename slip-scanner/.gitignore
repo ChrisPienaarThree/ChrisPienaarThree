@@ -1,0 +1,4 @@
+test/_out/
+test/_script.js
+test/_pure.js
+node_modules/
